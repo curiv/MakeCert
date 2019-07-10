@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-from PIL import Image
-from PIL import ImageFont
-from PIL import ImageDraw
+from PIL import Image,ImageFont,ImageDraw
 
 def MakeCert(FONT,CORD_FIO_C,CORD_TEAM_C,COLOR,TEMPLATE_NAME,line):
     img  = Image.open( TEMPLATE_NAME )

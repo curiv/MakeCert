@@ -35,4 +35,4 @@ with open( LIST_NAME,"r" ) as file:
         CORD_FIO_C  = [ 270, 620 ]
         CORD_TEAM_C = [ 270, 740 ]
 
-        MakeCert(FONT,CORD_FIO_C,CORD_TEAM_C,COLOR,TEMPLATE_NAME,line)
+        MakeCert( FONT,CORD_FIO_C,CORD_TEAM_C,COLOR,TEMPLATE_NAME,line )

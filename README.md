@@ -1,6 +1,6 @@
 Usage:
 
-0) Install PIL via pip
+0) Install PIL via pip: python3 -m pip install Pillow
 
 1) Collect some personal data at first such as username, team name.
 

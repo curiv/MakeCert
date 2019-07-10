@@ -1,5 +1,7 @@
 Usage:
 
+0) Install PIL via pip
+
 1) Collect some personal data at first such as username, team name.
 
 2) Create a list using that information like that

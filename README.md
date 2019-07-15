@@ -1,3 +1,7 @@
+`TODO:`
+* command line agruments
+* more usefull options
+
 Usage:
 
 0) Install PIL via pip: python3 -m pip install Pillow
